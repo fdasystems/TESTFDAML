@@ -1,0 +1,5 @@
+D:\FDA\Test Tecnicos - para ingresos laborales\Practicos\TestML2016\WebService\WebService\bin\WebService.dll
+D:\FDA\Test Tecnicos - para ingresos laborales\Practicos\TestML2016\WebService\WebService\bin\WebService.pdb
+D:\FDA\Test Tecnicos - para ingresos laborales\Practicos\TestML2016\WebService\WebService\obj\Debug\ResolveAssemblyReference.cache
+D:\FDA\Test Tecnicos - para ingresos laborales\Practicos\TestML2016\WebService\WebService\obj\Debug\WebService.dll
+D:\FDA\Test Tecnicos - para ingresos laborales\Practicos\TestML2016\WebService\WebService\obj\Debug\WebService.pdb
